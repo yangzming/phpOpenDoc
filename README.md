@@ -50,7 +50,7 @@ _PHP相关的手册网址_
 * Laravel 5.4 [官网](https://d.laravel-china.org/docs/5.4)
 * 微擎 [官网](http://s.we7.cc/index.php?c=wiki&do=view&id=1&list=19)
 * Laravel-admin [官网](http://laravel-admin.org/docs/#/zh/)
-* Vue.js (官网)(https://cn.vuejs.org/v2/guide/)
+* Vue.js [官网](https://cn.vuejs.org/v2/guide/)
 
 ## <a name="phpwebsite"></a>PHP网站
 _PHP相关的有用网站_
