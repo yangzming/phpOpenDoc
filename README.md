@@ -17,14 +17,14 @@ PHP长期收集的资源大全
 
 
 ## <a name="plug-in"></a>JS插件
-* 二维码生成 [官网](https://github.com/jeromeetienne/jquery-qrcode)
-* 复制功能 [官网](https://github.com/zenorocha/clipboard.js)
-* zTree [官网](https://github.com/zTree/zTree_v3)
-* dropload [官网](https://github.com/ximan/dropload)
+* jq-qrcode: 二维码生成 [官网](https://github.com/jeromeetienne/jquery-qrcode)
+* clipboard: 复制功能 [官网](https://github.com/zenorocha/clipboard.js)
+* zTree: jQuery 树插件 [官网](https://github.com/zTree/zTree_v3)
+* dropload: 移动端下拉刷新、上拉加载更多插件 [官网](https://github.com/ximan/dropload)
 
 ## <a name="font"></a>Web字体
-* 字蛛gulp-font-spider　压缩字体 [官网]（https://github.com/aui/font-spider）
-* web字体优化 [官网](https://github.com/ecomfe/fontmin)
+* gulp-font-spider: 字蛛　压缩字体 [官网]（https://github.com/aui/font-spider）
+* Fontmin 是一个纯 JavaScript 实现的字体子集化方案 [官网](https://github.com/ecomfe/fontmin)
 
 ## <a name="interface"></a>API接口文档管理
 _管理接口_
