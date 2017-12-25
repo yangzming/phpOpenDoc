@@ -3,18 +3,28 @@
 PHP长期收集的资源大全
 
 ## 目录
-* [压缩工具](#compress)
+* [优秀源码](#source_code)
+* [JS插件](#plug-in)
+* [Web字体](#font)
 * [API接口文档管理](#interface)
-* [给力博客](#blog)
+* [优秀博客](#blog)
 * [PHP后台](#phpadmin)
 * [相关手册](#manual)
 * [PHP网站](#phpwebsite)
 
 ------------------
+## <a name="source_code"></a>优秀源码
 
-## <a name="compress"></a>压缩工具
-_压缩工具收集_
+
+## <a name="plug-in"></a>JS插件
+* 二维码生成 [官网](https://github.com/jeromeetienne/jquery-qrcode)
+* 复制功能 [官网](https://github.com/zenorocha/clipboard.js)
+* zTree [官网](https://github.com/zTree/zTree_v3)
+* dropload [官网](https://github.com/ximan/dropload)
+
+## <a name="font"></a>Web字体
 * 字蛛gulp-font-spider　压缩字体 [官网]（https://github.com/aui/font-spider）
+* web字体优化 [官网](https://github.com/ecomfe/fontmin)
 
 ## <a name="interface"></a>API接口文档管理
 _管理接口_
@@ -22,7 +32,7 @@ _管理接口_
 * Show Doc [官网](https://github.com/star7th/showdoc)
 * 阿里 RAP [官网](https://github.com/thx/RAP)
 
-## <a name="blog"></a>给力博客
+## <a name="blog"></a>优秀博客
 * 单点登录 [官网](http://www.cnblogs.com/ywlaker/p/6113927.html)
 * 缓存技术 [官网](http://blog.csdn.net/zhengwish/article/details/51497164)
 
