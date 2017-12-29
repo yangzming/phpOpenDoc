@@ -21,6 +21,7 @@
 * clipboard: 复制功能 [官网](https://github.com/zenorocha/clipboard.js)
 * zTree: jQuery 树插件 [官网](https://github.com/zTree/zTree_v3)
 * dropload: 移动端下拉刷新、上拉加载更多插件 [官网](https://github.com/ximan/dropload)
+* requirejs: 模块载入框架 [官网](https://github.com/requirejs/requirejs)
 
 ## <a name="font"></a>Web字体
 * gulp-font-spider: 字蛛　压缩字体 [官网]（https://github.com/aui/font-spider）
