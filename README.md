@@ -34,8 +34,8 @@ _管理接口_
 * 阿里 RAP [官网](https://github.com/thx/RAP)
 
 ## <a name="blog"></a>优秀博客
-* 单点登录 [官网](http://www.cnblogs.com/ywlaker/p/6113927.html)
-* 缓存技术 [官网](http://blog.csdn.net/zhengwish/article/details/51497164)
+* 单点登录原理与简单实现 [官网](http://www.cnblogs.com/ywlaker/p/6113927.html)
+* 简谈常用缓存技术 [官网](http://blog.csdn.net/zhengwish/article/details/51497164)
 
 ## <a name="phpadmin"></a>PHP后台
 _可快速开发PHP后台模板_
