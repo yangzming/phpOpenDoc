@@ -3,7 +3,8 @@
 个人能力有限，初步的归类看起来会有点乱，后期慢慢会整理好
 
 ## 目录
-* [优秀源码](#source_code)
+* [项目管理工具](#project-management)
+* [优秀源码](#source-code)
 * [JS插件](#plug-in)
 * [Web字体](#font)
 * [API接口文档管理](#interface)
@@ -13,7 +14,11 @@
 * [PHP网站](#phpwebsite)
 
 ------------------
-## <a name="source_code"></a>优秀源码
+## <a name="project-management"></a>项目管理工具
+* bugfree: 注重Bug管理,团队转向禅道
+* zentaopms: 禅道项目管理工具 [官网](https://github.com/easysoft/zentaopms)
+
+## <a name="source-code"></a>优秀源码
 
 
 ## <a name="plug-in"></a>JS插件
