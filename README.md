@@ -19,7 +19,8 @@
 * zentaopms: 禅道项目管理工具 [官网](https://github.com/easysoft/zentaopms)
 
 ## <a name="source-code"></a>优秀源码
-
+* 白俊遥博客 [官网](https://gitee.com/shuaibai123/thinkphp-bjyadmin)
+* DiscuzX [官网](https://gitee.com/ComsenzDiscuz/DiscuzX)
 
 ## <a name="plug-in"></a>JS插件
 * jq-qrcode: 二维码生成 [官网](https://github.com/jeromeetienne/jquery-qrcode)
@@ -29,7 +30,7 @@
 * requirejs: 模块载入框架 [官网](https://github.com/requirejs/requirejs)
 
 ## <a name="font"></a>Web字体
-* gulp-font-spider: 字蛛　压缩字体 [官网]（https://github.com/aui/font-spider）
+* gulp-font-spider: 字蛛  压缩字体 [官网](https://github.com/aui/font-spider)
 * Fontmin 是一个纯 JavaScript 实现的字体子集化方案 [官网](https://github.com/ecomfe/fontmin)
 
 ## <a name="interface"></a>API接口文档管理
