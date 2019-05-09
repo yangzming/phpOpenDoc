@@ -19,7 +19,7 @@
 * zentaopms: 禅道项目管理工具 [官网](https://github.com/easysoft/zentaopms)
 
 ## <a name="source-code"></a>优秀源码
-* 白俊遥博客 [官网](https://gitee.com/shuaibai123/thinkphp-bjyadmin)
+* 白俊遥博客 [官网](https://gitee.com/baijunyao/thinkphp-bjyadmin)
 * DiscuzX [官网](https://gitee.com/ComsenzDiscuz/DiscuzX)
 
 ## <a name="plug-in"></a>JS插件
