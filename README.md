@@ -12,6 +12,7 @@
 * [PHP后台](#phpadmin)
 * [相关手册](#manual)
 * [PHP网站](#phpwebsite)
+* [扫描工具](#scanning)
 
 
 ------------------
@@ -40,6 +41,9 @@ _管理接口_
 * eoLinker API [官网](https://github.com/eolinker/eoLinker-API-Management-System-OS-3.X)
 * Show Doc [官网](https://github.com/star7th/showdoc)
 * 阿里 RAP [官网](https://github.com/thx/RAP)
+* Swagger [官网](https://swagger.io/)
+* Raml [官网](https://raml.org/)
+* Blueprint [官网](https://apiblueprint.org/)
 
 ## <a name="blog"></a>优秀博客
 * UU Blog [官网](https://uublog.com/)
@@ -51,19 +55,26 @@ _可快速开发PHP后台模板_
 * Laravel-admin [官网](https://github.com/z-song/laravel-admin)
 * Layui [官网](https://github.com/sentsin/layui)
 
-## <a name="manual"></a>相关手册
-_PHP相关的手册网址_
+## <a name="manual"></a>相关手册(_PHP相关的手册网址_)
 
 * ThinkPHP 5.0 [官网](https://www.kancloud.cn/manual/thinkphp5/118003)
 * ThinkPHP 3.2.3 [官网](https://www.kancloud.cn/manual/thinkphp/1678)
 * 微信公众平台技术文档 [官网](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432)
-* Laravel 5.4 [官网](https://d.laravel-china.org/docs/5.4)
+* Laravel 5.6 [官网](https://laravelacademy.org/laravel-docs-5_6)
 * 微擎 [官网](http://s.we7.cc/index.php?c=wiki&do=view&id=1&list=19)
 * Laravel-admin [官网](http://laravel-admin.org/docs/#/zh/)
 * Vue.js [官网](https://cn.vuejs.org/v2/guide/)
+* datatables [官网](http://www.datatables.club/manual/)
 
 ## <a name="phpwebsite"></a>PHP网站
 _PHP相关的有用网站_
-
 * php-the-right-way：一个PHP最佳实践的快速指引手册 [官网](http://laravel-china.github.io/php-the-right-way/)
+
+## <a name="scanning"></a>扫描工具
+* W3af: Python的Web应用扫描器
+* Skipfish: WEB渗透
+* sqlmap: Sql注入
+* L0phtCrack: 检测Windows、UNIX 用户是否使用了不安全的密码
+* Nessus: 系统漏洞扫描
+* jsky: Web漏洞扫描软件
 
