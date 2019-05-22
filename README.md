@@ -1,5 +1,5 @@
 # php-resource
-### 更新日期：2018-01-03
+### 更新日期：2019-05-22
 个人能力有限，初步的归类看起来会有点乱，后期慢慢会整理好
 
 ## 目录
@@ -12,6 +12,7 @@
 * [PHP后台](#phpadmin)
 * [相关手册](#manual)
 * [PHP网站](#phpwebsite)
+
 
 ------------------
 ## <a name="project-management"></a>项目管理工具
@@ -28,6 +29,7 @@
 * zTree: jQuery 树插件 [官网](https://github.com/zTree/zTree_v3)
 * dropload: 移动端下拉刷新、上拉加载更多插件 [官网](https://github.com/ximan/dropload)
 * requirejs: 模块载入框架 [官网](https://github.com/requirejs/requirejs)
+* phpantomjs: Python爬虫 [官网](http://phantomjs.org/)
 
 ## <a name="font"></a>Web字体
 * gulp-font-spider: 字蛛  压缩字体 [官网](https://github.com/aui/font-spider)
